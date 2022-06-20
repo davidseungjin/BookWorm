@@ -1,8 +1,8 @@
 ## BucketList
 ### Brief demonstration
 
-<img src='https://github.com/davidseungjin/BucketList/blob/main/mapkit.gif' />
 
+<img src='https://github.com/davidseungjin/BookWorm/blob/main/bookworm_pjt.gif'/>
 Language utilized: Swift
 Framework and libraries: CoreDB (custom implementation), Major components of SwiftUI
 
